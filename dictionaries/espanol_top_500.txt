@@ -1,0 +1,500 @@
+de | из; от
+la | определённый артикль; её
+que | что; который
+el | определённый артикль
+en | в; на
+y | и
+a | к; в
+los | определённый артикль, мн. ч
+no | нет; не
+un | один; неопределённый артикль
+se | себя; -ся
+por | за; по; через
+es | есть; является
+del | из; от
+las | определённый артикль, мн. ч
+con | с
+una | одна; неопределённый артикль
+para | для; чтобы
+lo | это; его
+su | его; её; их; свой
+al | к; в
+como | как
+me | мне; меня
+más | больше; ещё
+si | если
+pero | но
+te | тебе; тебя
+o | или
+mi | мой; мне
+le | ему; ей
+este | этот; восток
+sus | его; её; их; свои
+esta | эта; находится
+todo | всё; весь
+ya | уже
+ha | имеет; сделал
+cuando | когда
+yo | я
+ser | быть
+son | есть; являются
+sin | без
+hay | есть; имеется
+está | находится; есть
+fue | был; пошёл
+tu | твой; ты
+muy | очень
+sobre | на; о; конверт
+también | тоже; также
+todos | все
+eso | это
+tiene | имеет
+nos | нам; нас
+porque | потому что
+qué | что; какой
+así | так
+años | годы; лет
+dos | два
+bien | хорошо
+entre | между
+puede | может
+desde | с; от
+hasta | до; даже
+hacer | делать
+ahora | сейчас
+era | был; эпоха
+esto | это
+vez | раз
+hace | делает; назад
+nada | ничто; ничего
+ni | ни
+donde | где
+parte | часть
+solo | только; один
+algo | что-то
+tiempo | время
+día | день
+uno | один
+mejor | лучше; лучший
+mucho | много
+tan | так; настолько
+ver | видеть
+vida | жизнь
+e | и
+ese | тот
+han | имеют; сделали
+mismo | тот же; сам
+siempre | всегда
+tengo | имею
+cada | каждый
+después | после; затем
+están | находятся; есть
+gente | людей
+esa | та
+estado | состояние
+estoy | нахожусь; есть
+mundo | мир
+va | идёт; едет
+año | год
+les | им
+mas | но; однако
+otro | другой
+otros | другие
+gracias | спасибо
+otra | другая
+cosas | всё, что угодно
+gran | большой
+menos | меньше; минус
+nunca | никогда
+personas | людей
+tanto | столько; так много
+antes | до; раньше
+poco | мало
+sea | пусть; является
+había | был; имелся
+tener | иметь
+trabajo | работа
+durante | во время
+ellos | они
+lugar | место
+creo | думаю; верю
+cómo | как
+hecho | сделанный; факт
+quiero | хочу; люблю
+sólo | только
+aunque | хотя
+contra | против
+cuenta | счёт
+decir | сказать
+gobierno | правительство
+país | страна
+soy | являюсь
+todas | все
+casa | дом
+estos | эти
+forma | форма
+he | имею; сделал
+nuevo | новая
+sido | был; являлся
+él | он
+aquí | здесь
+ella | она
+estas | ты
+sí | да; себя
+estaba | был; находился
+estar | быть; находиться
+hoy | сегодня
+tienen | у них есть
+alguien | кто-то
+dice | говорит:
+quien | кто; который
+toda | всё
+tres | три
+voy | иду; еду
+caso | дело
+días | дней
+momento | время
+bueno | хорошо
+ciudad | город
+mis | мои
+nuestro | нашего
+luego | затем
+nacional | национальный
+parece | кажется
+nuestra | наше
+poder | мочь; власть
+pueden | могут
+pues | итак; ведь
+verdad | да
+historia | история
+mientras | пока; в то время как
+nadie | никто
+nueva | новая
+otras | прочее
+primera | первая
+veces | разы
+muchos | много
+cual | который
+debe | должен
+dijo | сказал
+entonces | тогда
+ir | идти; ехать
+tipo | тип
+algunos | некоторые
+general | общая информация
+mayor | больше
+tal | такой
+además | кроме того,
+mal | плохо
+muchas | много
+primer | первая
+según | согласно
+acuerdo | договорились
+cualquier | любой
+dios | о, Боже
+fueron | они пошли
+manera | режим
+nombre | имя
+unos | несколько; одни
+ley | закон
+medio | средняя
+partido | партия
+bajo | низкий
+fuera | убирайся
+hacia | к
+sino | но
+da | даёт
+grupo | группа
+haber | иметь
+hombre | мужчина
+puedo | я могу
+buena | хорошо
+mujer | женщины
+persona | человека
+será | будет
+sistema | система
+casi | почти
+fin | конец
+hizo | он сделал это
+noche | ночь
+nosotros | мы
+pasado | прошлый
+presidente | президент
+quiere | он хочет
+tenemos | у нас есть
+tus | ты
+eres | ты
+méxico | мексика
+ahí | вон там
+cosa | что-то
+dentro | внутри
+españa | шпань
+estamos | мы здесь
+familia | семья
+lado | с другой стороны
+aún | пока что
+buen | отлично
+podemos | можем
+misma | сама
+pueblo | народ
+tenía | у меня было
+esos | те
+final | финальная
+mujeres | женщин
+política | политика
+problema | проблема
+punto | точка
+agua | водоснабжение
+alguna | какая-нибудь; некоторая
+equipo | оборудование
+guerra | война
+saber | знать
+sé | я знаю
+vamos | пойдем
+van | идут; едут
+ante | пред
+dar | дать
+embargo | эмбарго
+favor | пожалуйста
+gusta | нравится
+importante | важное
+información | информации
+mañana | завтра
+pasa | входи
+semana | неделя
+tienes | у тебя есть
+claro | конечно
+dinero | денег
+san | святой
+social | социального характера
+ejemplo | пример
+estados | штаты
+horas | часов
+igual | равно
+millones | миллионы
+número | число
+ti | ты
+algunas | некоторые
+hablar | говорить
+hora | час
+madre | мать
+señor | сэр
+siendo | будучи; являясь
+centro | центр
+derecho | право; правый
+falta | не хватает
+grandes | большие
+haciendo | делать
+hombres | мужчины
+nuestros | наших
+puedes | ты сможешь
+amigos | друзья
+buenos | хорошие
+cambio | изменение
+idea | идею
+mierda | дерьмо
+muerte | смерть
+problemas | проблемы
+tarde | поздно; вечер
+tras | после
+través | через
+tú | ты
+meses | месяцы
+podría | может быть
+realidad | реальность
+algún | какой-нибудь
+amor | любовь
+dicho | сказанный; высказывание
+eran | они были
+frente | перед
+incluso | даже
+primero | первая
+real | фактическая
+vas | ты идешь
+cuatro | четыре
+desarrollo | развития
+hijo | сын
+sociedad | общество
+tema | тема
+varios | несколько; различные
+esas | те
+mí | я
+nivel | уровень
+niños | дети
+seguro | безопасный; уверенный
+sería | это было бы
+argentina | Аргентина
+hacen | делают
+hemos | имеем; сделали
+juego | игра
+llegar | прибывать
+mano | рука
+paso | шаг; проход
+posible | возможный
+proyecto | проект
+sigue | продолжай
+somos | мы
+unidos | объединённые
+uso | использование
+artículo | статья
+cerca | близко
+cierto | верно
+grande | большой
+países | стран
+quién | кто
+razón | причина
+sabe | вы знаете
+todavía | все еще
+amigo | дружище
+madrid | мадрид
+mayoría | большинство
+padre | отец
+salir | выход
+seguridad | безопасность
+tierra | земля
+visto | увиденный
+único | единственный
+cuerpo | тело
+programa | программа
+segundo | второй
+unas | несколько; одни
+universidad | университет
+último | последний
+cabeza | голова
+foto | фото
+haya | есть
+internacional | международный
+mil | тысяча
+palabras | слова
+pasar | пройти
+público | общественный; публика
+seguir | продолжить
+servicio | обслуживание
+situación | ситуация
+ayuda | помощь
+juan | джуан
+libro | книга
+siguiente | следующее
+veo | я вижу
+datos | данные
+dejar | оставить
+educación | образование
+proceso | процесс
+sentido | значение
+cinco | пять
+clase | класс
+cuanto | сколько
+derechos | права
+ello | это; оно
+estás | вот ты где
+hijos | детей
+mes | месяц
+usted | вы
+largo | длина
+ningún | нет
+orden | порядок; приказ
+puesto | должность
+quieres | ты хочешь
+realmente | вообще-то
+alto | высокий
+demás | прочее
+dicen | они говорят:
+diferentes | разные
+español | испанский
+junto | вместе
+lista | список
+medios | средние
+ninguna | нет
+personal | персонала
+total | всего
+trata | пытается; касается
+video | видео
+viene | он идет
+web | веб-сайт
+base | базовая
+camino | путь
+digo | я говорю:
+empresa | компания
+especial | специальная
+hola | привет
+paz | мир
+policía | полиция
+queda | осталось
+salud | здравоохранение
+sitio | место; сайт
+tomar | возьмите
+tuvo | у него было
+zona | район
+calle | улица
+cara | лицо
+línea | строка
+mundial | мировой
+obra | работа
+ojos | глаза
+os | вам; вас
+pensar | подумать
+servicios | услуги
+sociales | социальных вопросов
+allí | вон там
+atención | внимание
+debería | я должен
+escuela | школы
+julio | июль
+pueda | я могу
+quieren | они хотят
+respecto | относительно
+segunda | второй
+siento | я чувствую
+ve | иди
+vivir | жить
+capital | капитала
+casos | количество случаев
+etc | и т.д
+libre | свободно
+luz | свет
+mejores | лучшие
+población | население
+quienes | которые
+relación | отношения
+sabes | ты знаешь
+suerte | удачи
+varias | разное
+bastante | достаточно
+cultura | культура
+debido | должный; из-за
+difícil | трудный
+dio | дал
+estaban | они были
+fotos | фото
+fuerte | сильный
+fácil | лёгкий
+habla | говорит; речь
+miedo | страх
+minutos | мин
+música | музыка
+poner | класть; ставить
+pregunta | вопрос
+rey | король
+vos | ты
+apoyo | поддержка
+dado | задан
+deja | оставь
+demasiado | слишком много
+espero | я подожду
+fuerza | сила
+iba | я собирался
+josé | джеше
+manos | руки
+mayo | май
+mucha | много
+oficial | официальный; офицер
+propio | собственный
+buenas | хорошие
+chile | чили
+control | управление
+deben | должны
+empresas | компании
+encontrar | найти
+inglés | английский язык
+marzo | март
+peor | хуже

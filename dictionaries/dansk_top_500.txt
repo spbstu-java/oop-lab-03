@@ -1,0 +1,500 @@
+i | в
+og | и
+er | есть; является
+af | из; от
+det | это; определённый артикль
+at | что; чтобы
+en | один; неопределённый артикль
+til | к; для; до
+på | на
+jeg | я
+har | имею; имеет
+for | для; потому что
+ikke | не
+med | с
+den | тот; определённый артикль
+der | там; который
+de | они; определённый артикль
+du | ты
+kan | может; уметь
+som | как; который
+så | так; затем
+et | одно; неопределённый артикль
+var | был; была
+vi | мы
+om | о; вокруг; если
+han | он
+fra | из; от
+men | но
+skal | должен; будет
+ved | у; при; знает
+vil | хочет; будет
+også | тоже; также
+være | быть
+hvor | где; как
+nu | сейчас
+man | люди; некто
+hvis | если; чей
+sig | себя; говорит
+efter | после; за
+mig | меня; мне
+eller | или
+her | здесь
+hvad | что
+ud | наружу
+alle | все
+godt | хорошо; хорошее
+meget | очень; много
+noget | что-то
+da | тогда; поскольку
+dig | тебя; тебе
+kunne | мог; уметь
+lige | прямо; только что; равный
+min | мой
+når | когда
+op | вверх
+blev | стал; был
+bliver | становится; будет
+havde | имел
+mere | больше
+over | над; через
+hun | она
+se | видеть
+år | год; лет
+bare | только; просто
+få | получать; мало
+have | иметь; сад
+dem | их; им
+to | два
+lidt | немного
+selv | сам
+din | твой
+mange | многие; много
+vores | наш
+får | получает; овцы
+kun | только
+deres | их; ваш
+helt | полностью; целый
+end | чем; конец
+jo | ведь; да
+kommer | приходит
+må | должен; можно
+dag | день
+denne | этот
+dette | это; этот
+hans | его
+ind | внутрь
+flere | больше; несколько
+gør | делает
+ja | да
+nok | достаточно; наверное
+andre | другие
+mod | против; к
+alt | всё
+været | был
+blive | становиться; оставаться
+god | хороший
+går | идёт
+igen | снова
+os | нас; нам
+fik | получил
+hele | весь
+sammen | вместе
+gang | раз; ход
+ville | хотел; бы
+hvordan | как
+nye | новые
+nogle | некоторые
+skulle | должен был
+tid | время
+danmark | данмарк
+dansk | датский
+siden | с тех пор; страница
+ham | его; ему
+under | под; во время
+første | первый
+sin | свой
+gøre | делать
+måske | может быть
+danske | датский
+ingen | никто; никакой
+siger | говорит
+sådan | такой; таким образом
+altid | всегда
+anden | другой; второй
+kom | пришёл
+del | часть
+uden | без; снаружи
+ser | видит; выглядит
+andet | другое
+fordi | потому что
+gerne | охотно; пожалуйста
+nogen | кто-то; какой-нибудь
+samme | тот же
+store | большие
+tak | спасибо
+blevet | стал; был
+før | до; раньше
+mellem | между
+tilbage | назад
+tror | думает; верит
+dog | однако
+sidste | последний
+arbejde | работа
+brug | использование
+dit | твой
+finde | поиск
+tage | брать
+gå | идти
+hvorfor | почему
+mit | мой
+bedre | лучше
+hos | у; при
+lille | маленький
+ret | право; довольно
+stor | большой
+bedste | лучший
+komme | приходить
+tre | три
+giver | возвратит
+københavn | доки для покупки
+mest | больше всего
+stadig | всё ещё
+folk | люди
+ny | новый
+aldrig | никогда
+ned | вниз
+både | оба; и ... и
+børn | дети
+dine | ваши
+disse | эти
+tager | берёт
+endnu | ещё
+set | увиденный; набор
+bruge | использовать
+gik | идите
+hold | команда; держать
+mand | чувак
+nej | нет
+samt | а также
+ting | вещи
+fået | получено
+gode | хорошо
+hendes | ее
+inden | до
+mine | мины
+står | стоят
+give | давать
+hvem | кто
+omkring | вокруг; около
+synes | думать; считать; нравиться
+derfor | поэтому
+først | сначала
+forskellige | разные
+vej | дорога; путь
+virkelig | правда
+frem | вверх
+klar | готово
+mennesker | люди
+rigtig | действительно
+sige | сказать
+gange | раз
+gennem | через
+hjem | домой
+hver | каждые
+lide | нравиться; страдать
+blandt | среди
+faktisk | вообще-то
+par | пара
+penge | деньги
+sted | место
+mens | пока; в то время как
+næste | следующий
+mindre | меньше
+måde | путь
+tog | взял; поезд
+død | смерть
+gamle | старый
+hvilket | что
+verden | мир
+altså | ну
+ligger | лежащий
+mener | в смысле
+navn | имя
+vel | ну, да
+allerede | уже
+dage | дней
+liv | жизнь
+aften | вечер
+findes | существует
+grund | причина
+hende | её; ей
+sit | свой; сидеть
+tidligere | ранее в сериале
+elsker | любовь
+hjælp | справка
+langt | длинный
+mænd | мужчины
+plads | место
+side | страница
+ellers | иначе
+finder | поиск
+kender | знает; знаком
+lave | преобразовать
+holde | держать; проводить
+morgen | утро
+større | больше
+ude | выключено
+stort | большой
+vist | показанный; вероятно
+haft | было
+kort | карта
+længere | больше
+tiden | время
+unge | молодежь
+én | один
+begge | и то, и другое
+hjælpe | помогать
+jer | вы
+nyt | новый
+næsten | почти
+væk | прочь
+ofte | часто
+senere | позже
+sine | свои
+stedet | место
+ønsker | желает; пожелания
+betyder | означает
+holder | держит
+længe | долго
+sagde | сказал
+sker | происходит
+gjorde | сделал
+jeres | ваше
+kvinder | женщины
+lang | длинный
+snart | скоро
+tale | говорить; речь
+videre | дальше
+indtil | до
+lad | заряжай
+spiller | играет; игрок
+taget | взятый
+fire | четыре; огонь
+mål | цель
+selvfølgelig | конечно
+sikkert | наверняка; безопасно
+største | самые большие
+via | через
+bag | за; сумка
+bør | должен
+gjort | готово
+heller | да, я тоже
+række | ряд; достигать
+spørgsmål | вопрос
+bruger | использует; пользователь
+byen | город
+døde | умерли
+svært | трудно
+søn | сын
+viser | показывает
+eneste | единственный
+fantastisk | потрясающе
+forhold | отношение; условие
+hurtigt | быстро
+lavet | сделано
+mor | мама
+ord | слова
+rundt | вокруг
+burde | должно быть
+mad | еда
+arbejder | работает
+fem | пять
+hej | привет
+håber | надеется
+især | особенно
+timer | часов
+fast | фиксированный
+film | фильм
+fundet | найдено
+gav | дан
+gået | вперёд
+høre | слышать
+kommune | муниципалитет
+laver | делает
+egen | собственный
+far | папа
+glad | радостный; довольный
+hvert | каждые
+intet | ничего
+kører | едет; работает
+ligesom | как
+rigtigt | правильно
+virker | работает
+aarhus | Орхус
+hinanden | друг друга
+måtte | должен был
+vide | знать
+igennem | через
+kvinde | женщина
+ses | видеться
+uge | неделя
+brugt | используется
+by | город
+handler | действует; речь идёт
+kommet | пришёл
+købe | покупать
+lyder | звучит
+sidder | сидит
+tæt | близко
+vigtigt | важный
+billeder | изображения
+bruges | используется
+danmarks | Дании
+dele | частей
+fandt | нашёл
+flot | красивый; отличный
+forbindelse | подключение
+form | форма
+forstår | понимает
+historie | история
+møde | встреча; встречать
+sagt | сказал
+selvom | хотя
+familie | семья
+fint | хорошо
+fleste | большинство
+tænker | думает
+valg | выбор
+alligevel | тем не менее
+hvilken | какой; который
+imod | против
+problemer | проблема
+små | маленькие
+stå | стоять
+sætte | ставить; помещать
+tur | поездка; очередь
+vejen | путь
+dagen | день
+fejl | ошибка
+følge | следовать
+læse | читать
+personer | люди; лица
+slet | совсем; удалять
+således | таким образом
+venner | друзья
+al | весь
+blot | только
+fortæller | рассказал
+føler | чувствует
+job | задания
+kamp | борьба
+lov | закон
+minutter | минут
+samtidig | одновременно
+tænke | думать
+alene | один
+lade | позволять; заряжать
+odense | Оденсе
+pige | девочка; девушка
+bog | книга
+fald | падение
+hjemme | дома
+leder | руководитель; ведёт
+nå | достигать; ну
+sikker | безопасно
+skrevet | написано
+søger | ищет
+engang | однажды
+hvornår | когда
+live | живой
+læs | читай
+netop | точно
+sætter | ставит
+barn | ребенок
+fri | свободный
+køre | ехать; управлять
+landet | страна
+livet | жизнь
+løbet | забег; течение
+sjovt | смешно
+slags | тип
+stille | тихо
+vand | вода
+velkommen | добро пожаловать
+aalborg | аалборг
+ad | на
+bad | ванна
+forbi | конец
+hjemmeside | веб- сайт
+hjælper | справка
+hus | дом
+skole | школа
+spil | игра
+spille | играть
+steder | места
+datter | дочь
+dermed | таким образом
+europa | европа
+fuld | полный
+høj | высокий
+la | ла
+muligt | возможно
+samarbejde | сотрудничество
+svar | ответ
+sæson | сезон
+taler | речи
+trods | несмотря на это
+desuden | кроме того,
+desværre | боюсь, что нет
+direkte | прямой
+gammel | старый
+hen | туда; к
+lyst | светло
+lære | учиться; учить
+medlemmer | члены
+mindst | минимум
+rigtige | правильно
+spændende | захватывающе
+tag | брать; крыша
+bil | машина
+endelig | наконец-то
+holdt | держал; проведён
+hører | слышит; относится
+land | земля
+passer | соответствует
+sat | поставлен
+betale | платёж
+hedder | имя
+klart | ясно; готово
+mangler | не хватает
+problem | проблема
+skrive | писать
+stod | стояло
+venstre | слева
+begynder | начинает
+bor | живёт; сверло
+inde | внутри
+måneder | месяцев
+nummer | номер
+området | область
+resten | остальное
+seks | шесть
+sidst | последний
+års | лет; годовой
+bedst | лучшее
+billede | изображение
+kræver | требует
+marts | март
+område | диапазон
+politiet | полиция
+prøve | пробовать; испытание
+time | час
+uger | недели
+ældre | старшие
+and | утка
+begyndte | начал
+derefter | затем
+foran | спереди
+forstå | понимать
+følger | следствие

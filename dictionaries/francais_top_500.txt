@@ -1,0 +1,500 @@
+de | из; от
+la | определённый артикль; её
+le | определённый артикль; его
+et | и
+à | к; в; у
+les | определённый артикль, мн. ч
+est | есть; является
+en | в; из; об этом
+des | неопределённый артикль, мн. ч.; из
+un | один; неопределённый артикль
+que | что; который
+a | имеет
+pas | не; шаг
+une | одна; неопределённый артикль
+du | из; от; частичный артикль
+il | он; это
+pour | для; чтобы
+dans | в; внутри
+je | я
+qui | кто; который
+au | к; в
+ce | это; этот
+sur | на; о
+par | по; через
+on | мы; кто-то; люди
+ne | не
+plus | больше; плюс
+avec | с
+mais | но
+se | себя; -ся
+vous | вы; вас
+ça | это
+tu | ты
+elle | она
+son | его; её; свой; звук
+y | там; туда
+ai | имею
+ou | или
+si | если; да
+sont | есть; являются
+tout | всё; весь
+fait | делает; факт
+nous | мы; нас
+comme | как
+être | быть
+bien | хорошо; благо
+ils | они
+cette | эта
+faire | делать
+sa | его; её; своя
+aux | к; в (мн. ч.)
+même | тот же; даже
+me | мне; меня
+ont | имеют
+était | был; была
+été | был; лето
+mon | мой
+ses | его; её; свои
+lui | ему; ей; он
+aussi | тоже; также
+peut | может
+deux | два
+leur | их; им
+moi | я; мне
+ces | эти
+quand | когда
+après | после
+suis | есть; следую
+très | очень
+tous | все
+sans | без
+avoir | иметь
+non | нет; не
+où | где; куда
+va | идёт; едет
+encore | ещё; снова
+alors | тогда; итак
+avait | имел; имела
+entre | между; входит
+temps | время
+ans | лет
+autres | другие
+dit | говорит; сказанный
+ma | моя
+là | там
+peu | мало
+autre | другой
+france | французская
+rien | ничто; ничего
+dire | говорить
+monde | мир
+te | тебе; тебя
+fois | раз
+faut | нужно
+toujours | всегда
+voir | видеть
+bon | хороший
+contre | против
+votre | ваш
+avant | до; перед
+depuis | с; с тех пор
+donc | итак; поэтому
+notre | наш
+sous | под
+jamais | никогда
+vie | жизнь
+moins | меньше; минус
+dont | которого; о котором
+toi | ты; тебе
+déjà | уже
+quoi | что
+soit | либо; пусть; является
+trop | слишком; слишком много
+leurs | их
+ton | твой; тон
+toute | вся
+chez | у; к; в доме
+gens | люди
+juste | справедливый; просто
+oui | да
+vraiment | действительно
+ainsi | так; таким образом
+as | имеешь
+grand | большой
+pays | страна
+français | французский
+mes | мои
+beaucoup | много
+jour | день
+quelques | несколько
+comment | как
+es | есть; являешься
+premier | первый
+sera | будет
+nos | наши
+parce | потому
+personne | никого
+cela | это
+trois | три
+homme | мужчины
+ici | здесь
+paris | париж
+toutes | все
+vu | увиденный; учитывая
+cas | в случае
+chose | что-то
+doit | должен
+partie | часть
+car | потому что
+eu | имел
+mal | неплохо
+première | первая
+bonne | хороший
+fin | конец
+mieux | лучше
+pendant | во время; в течение
+petit | маленький
+puis | затем
+année | год
+cet | этот
+ceux | те
+elles | они (ж. р.)
+moment | время
+place | место
+plusieurs | несколько
+pourquoi | почему
+ta | твоя
+ville | город
+jours | дня
+mois | месяц
+vers | к; около; стих
+histoire | история
+mort | смерть
+sais | знаю; знаешь
+années | годы
+fais | делаю; делаешь
+nouveau | новости
+nouvelle | новые
+part | часть; доля
+travail | работа
+aujourd'hui | сегодня
+compte | счет
+merci | спасибо
+prendre | зайти
+veut | хочет
+état | состояние
+aller | пойдём
+cours | курсы
+peux | можешь
+politique | политика
+reste | останься
+veux | хочешь
+vos | ваш
+celui | тот; этот
+chaque | каждая
+grande | большой
+personnes | лиц
+femme | женщины
+nom | имя
+prix | цены
+également | также
+point | точка
+seul | один
+vais | пойдём
+eux | они
+lieu | место
+lors | в момент
+vrai | верно
+droit | право
+selon | в зависимости от
+coup | удар
+mettre | запустить
+serait | было бы
+pense | подумай
+quelque | где бы то ни было
+tant | столько; так много
+avais | имел; имела
+groupe | группа
+maintenant | сейчас же
+maison | дом
+saint | святая
+tête | голова
+étaient | был
+aime | люблю
+aurait | получилось бы
+avons | имеем
+enfants | дети
+famille | семья
+parler | говори
+suite | последующие меры
+assez | достаточно
+besoin | потребуется
+demande | просьба
+genre | гендерная проблематика
+savoir | знание
+société | общество
+trouve | найти
+celle | та; эта
+côté | в сторону
+passe | проходит; прошлое
+pouvoir | сила
+question | вопрос
+raison | по этой причине
+sens | значение
+ailleurs | в других местах
+avez | имеете
+certains | некоторые
+ci | здесь
+devant | вперед
+dis | скажи:
+jeu | игра
+soir | ночью
+souvent | часто
+effet | действие
+général | общий; генерал
+jean | Жан; джинсы
+jusqu'à | до
+ni | ни
+partir | отойти
+surtout | особенно
+équipe | группа
+choses | вещи
+dernier | последний
+enfin | наконец-то
+font | делают
+nombre | число; количество
+parle | говорит
+porte | дверь; несёт
+seulement | только
+site | веб-сайт
+eau | вода
+ensemble | вместе
+hommes | мужчины
+petite | маленькая
+femmes | женщины
+mère | мать
+passer | проходить; проводить
+près | рядом
+quel | какой
+quelqu'un | кто-то
+tes | твои
+vois | вижу; видишь
+aucun | никакой; ни один
+loi | закон
+parti | партия; ушедший
+pris | взятый
+père | отец
+rapport | отчёт; отношение
+dès | с; как только
+peuvent | могут
+pu | мог
+trouver | найти
+autant | столько же
+face | лицо; напротив
+fille | девочка; дочь
+fut | был
+gouvernement | правительство
+gros | большой; толстый
+guerre | война
+niveau | уровень
+passé | прошлое
+pourrait | мог бы
+quatre | четыре
+semaine | неделя
+service | обслуживание
+seule | одна
+accord | соглашение
+article | статья
+donne | даёт
+donner | давать
+ligne | линия
+problème | проблема
+président | председатель
+vient | приходит
+cause | причина; вызывает
+crois | верю; думаешь
+dieu | бог
+début | начало
+exemple | пример
+fils | сын
+jeune | молодой
+mis | положил; поставил
+système | система
+air | воздух
+aucune | нет
+bas | низ; низкий
+centre | центр
+façon | способ
+heure | час
+heures | час. 00 мин
+loin | далеко
+possible | возможная
+projet | проект
+conseil | совет
+dernière | последняя
+idée | идея
+notamment | в том числе
+nuit | ночь
+vont | пошли
+étais | был
+argent | деньги
+tour | тур
+vue | вид
+êtes | вот так
+an | год
+aura | будет
+dessus | выше
+film | фильм
+meilleur | лучше
+corps | тело
+ensuite | затем
+forme | форма
+haut | вверх
+or | золото; однако
+plutôt | скорее
+arrive | прибывает; происходит
+avaient | имели
+chef | глава
+europe | европе
+fort | сильная
+public | публичный; публика
+tard | поздно
+ayant | имеющий
+main | рука
+terre | земля
+titre | название
+matin | утро
+mise | размещение; поставленная
+plan | план
+saison | сезон
+sait | знает
+type | тип
+afin | для
+ah | ах
+aide | помощь
+belle | красивая
+choix | выбор
+française | французский язык
+long | длинный
+minutes | минуты
+retour | возвращение
+situation | ситуация
+sommes | наличные средства
+vite | быстро
+yeux | глаза
+amour | любовь
+base | основа
+journée | день
+nord | север
+devrait | следует
+donné | получено
+etc | и т.д
+grâce | благодаря; милость
+moyen | средство; средний
+ordre | порядок; приказ
+prend | берёт
+école | школа
+étant | будучи
+but | цель
+cinq | пять
+manière | способ; манера
+mars | март
+pierre | камень
+québec | квебек
+semble | похоже на то
+sujet | тема
+truc | что-то не так
+agit | делай это
+enfant | дети
+ministre | министр
+nouvelles | новые
+parfois | иногда
+quelle | в чем:
+rue | улица
+sud | южный
+super | отлично
+sûr | безопасно
+unis | объединённые
+vidéo | видео
+amis | друзья
+art | искусство
+beau | красивый
+compris | понятый; включая
+gauche | левая
+livre | книга
+musique | музыка
+région | регион
+entreprise | предприятие
+jeunes | молодежь
+longtemps | долгое время
+match | матч
+permet | выполнено
+simple | простое
+voilà | вот так
+voit | видишь
+chambre | комната
+deuxième | вторая
+importe | важно; ввозит
+juin | июнь
+lorsque | когда
+mai | май
+peur | страх
+plein | полный
+police | полиция
+septembre | сентябрь
+sécurité | безопасность
+série | серия
+ancien | бывший
+anglais | английский
+certaines | некоторые
+grands | основные
+important | важное значение
+jouer | играть
+membres | члены
+merde | чёрт побери
+parmi | среди
+peine | труд; боль; наказание
+presque | почти
+services | услуги
+tellement | так много
+époque | время
+allez | пошли
+doute | сомнение
+force | сила
+lire | читать
+marché | рынки
+mot | слово
+points | пункты
+recherche | исследования
+santé | здравоохранение
+seront | будет
+train | поезд
+voix | голос
+écrit | письменный текст
+affaires | дела
+autour | вокруг
+avis | мнение; уведомление
+cependant | однако
+développement | развития
+faites | делаете; сделайте
+hier | вчера
+juillet | июль
+millions | млн
+nationale | национальная
+nombreux | многочисленные
+parents | родители
+propre | чистый
+rendre | возвращать; делать
+vivre | жить
+droite | правая
+environ | примерно
+fond | дно; основа
+mec | чувак
+mesure | измерение
+ouais | да
+pourtant | тем не менее
+trouvé | найдено
+abord | сначала
+affaire | дело
+envie | захотеть
