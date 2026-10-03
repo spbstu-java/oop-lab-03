@@ -1,0 +1,90 @@
+look | смотреть
+look forward | ожидать
+look after | заботиться
+hello | привет
+good morning | доброе утро
+good night | спокойной ночи
+thank you | спасибо
+dog | собака
+cat | кошка
+window | окно
+house | дом
+book | книга
+friend | друг
+school | школа
+city | город
+road | дорога
+tree | дерево
+flower | цветок
+table | стол
+computer | компьютер
+water | вода
+sun | солнце
+moon | луна
+day | день
+night | ночь
+time | время
+work | работать
+play | играть
+read | читать
+write | писать
+go | идти
+come | приходить
+see | видеть
+hear | слышать
+speak | говорить
+take care | беречь
+take off | снимать
+get up | вставать
+sit down | садиться
+turn on | включать
+turn off | выключать
+open | открывать
+close | закрывать
+big | большой
+small | маленький
+new | новый
+old | старый
+happy | счастливый
+sad | грустный
+fast | быстрый
+slow | медленный
+red | красный
+blue | синий
+green | зелёный
+white | белый
+black | чёрный
+mother | мама
+father | папа
+brother | брат
+sister | сестра
+child | ребёнок
+people | люди
+world | мир
+love | любовь
+life | жизнь
+food | еда
+tea | чай
+coffee | кофе
+milk | молоко
+bread | хлеб
+apple | яблоко
+car | машина
+bus | автобус
+train | поезд
+plane | самолёт
+phone | телефон
+door | дверь
+room | комната
+street | улица
+park | парк
+morning | утро
+evening | вечер
+today | сегодня
+tomorrow | завтра
+yesterday | вчера
+yes | да
+no | нет
+please | пожалуйста
+sorry | извини
+welcome | добро пожаловать
