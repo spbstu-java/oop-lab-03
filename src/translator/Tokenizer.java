@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 
 public class Tokenizer {
-    // Токен - цельное слово
+    // Токен - целое слово
     // p{L} - любая буква, p{N} - любая цифра
     private static final Pattern TOKEN = Pattern.compile("[\\p{L}\\p{N}]+|\\s+|.");
 
