@@ -1,0 +1,150 @@
+look | смотреть
+look forward | ожидать
+look for | искать
+look after | присматривать
+look at | смотреть на
+give | давать
+give up | сдаваться
+get | получать
+get up | вставать
+go | идти
+go on | продолжать
+come | приходить
+come back | возвращаться
+take | брать
+take off | снимать
+put | класть
+put on | надевать
+turn | поворачивать
+turn on | включать
+turn off | выключать
+find | находить
+find out | выяснять
+run | бежать
+run away | убегать
+make | делать
+make up | придумывать
+good | хороший
+good morning | доброе утро
+good night | спокойной ночи
+thank you | спасибо
+see you later | до встречи
+how are you | как дела
+of course | конечно
+at least | по крайней мере
+as soon as possible | как можно скорее
+cat | кошка
+house | дом
+city | город
+car | машина
+book | книга
+table | стол
+chair | стул
+door | дверь
+tree | дерево
+sun | солнце
+moon | луна
+water | вода
+fire | огонь
+bread | хлеб
+milk | молоко
+apple | яблоко
+friend | друг
+family | семья
+mother | мать
+father | отец
+brother | брат
+sister | сестра
+child | ребёнок
+man | мужчина
+woman | женщина
+teacher | учитель
+student | студент
+school | школа
+work | работа
+money | деньги
+time | время
+day | день
+night | ночь
+morning | утро
+evening | вечер
+week | неделя
+year | год
+today | сегодня
+tomorrow | завтра
+yesterday | вчера
+big | большой
+small | маленький
+new | новый
+old | старый
+bad | плохой
+beautiful | красивый
+fast | быстрый
+slow | медленный
+hot | горячий
+cold | холодный
+happy | счастливый
+sad | грустный
+red | красный
+green | зелёный
+blue | синий
+white | белый
+black | чёрный
+read | читать
+write | писать
+speak | говорить
+listen | слушать
+eat | есть
+drink | пить
+sleep | спать
+love | любить
+know | знать
+think | думать
+want | хотеть
+help | помогать
+open | открывать
+close | закрывать
+play | играть
+learn | учить
+live | жить
+buy | покупать
+sell | продавать
+i | я
+you | ты
+he | он
+she | она
+we | мы
+they | они
+my | мой
+your | твой
+and | и
+or | или
+but | но
+not | не
+yes | да
+no | нет
+very | очень
+always | всегда
+never | никогда
+here | здесь
+there | там
+now | сейчас
+please | пожалуйста
+hello | привет
+goodbye | до свидания
+world | мир
+language | язык
+computer | компьютер
+program | программа
+dictionary | словарь
+word | слово
+question | вопрос
+answer | ответ
+street | улица
+road | дорога
+river | река
+sea | море
+mountain | гора
+weather | погода
+rain | дождь
+snow | снег
